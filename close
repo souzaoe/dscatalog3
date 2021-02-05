@@ -1,0 +1,29 @@
+* [33mcommit 3ccdd7ab69491beb55b5505647b1a62981411e32[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+[31m|[m Author: souzaoe <souzaoe@hotmail.com>
+[31m|[m Date:   Wed Jan 20 09:12:55 2021 -0300
+[31m|[m 
+[31m|[m     Criação do DTO - objeto de transferencia de dados, que transfere as informações da camada de serviços, para o controlador REST, no back end
+[31m|[m 
+* [33mcommit f73f205db0e3e8d88f86ea7e4e88e41a57b719ec[m
+[31m|[m Author: souzaoe <souzaoe@hotmail.com>
+[31m|[m Date:   Tue Jan 19 16:37:53 2021 -0300
+[31m|[m 
+[31m|[m     Database seeding
+[31m|[m 
+* [33mcommit bace41067798feae1c95b54b405487de344bd5d3[m
+[31m|[m Author: souzaoe <souzaoe@hotmail.com>
+[31m|[m Date:   Tue Jan 19 15:51:41 2021 -0300
+[31m|[m 
+[31m|[m     Hs Database
+[31m|[m 
+* [33mcommit 854d7956b11a11afdaa0f581dcb77164f110c32f[m
+[31m|[m Author: souzaoe <souzaoe@hotmail.com>
+[31m|[m Date:   Sun Jan 17 13:16:29 2021 -0300
+[31m|[m 
+[31m|[m     CategoryResource
+[31m|[m 
+* [33mcommit 95ad48d7d058cd7dab9ed3425b0831e53a437655[m
+  Author: souzaoe <souzaoe@hotmail.com>
+  Date:   Thu Jan 14 21:10:13 2021 -0300
+  
+      Projeto criado
